@@ -1,0 +1,21 @@
+nav{
+    background-color: black;
+    font-size:18px;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    padding:20px;
+    color:aqua;
+}
+p{
+font-size: 18px;
+}
+body{
+background-color: rgb(255, 231, 97);
+}
+h1{
+font-size:34px;
+}

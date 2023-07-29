@@ -1,0 +1,26 @@
+form{
+    background-color:#ffffff9e;
+    margin-left: 500px;
+    margin-right: 500px;
+    color:black;
+    font-size:17px;
+    }
+    body{
+        background-color: rgb(190, 239, 163);
+        }
+        h1{
+        color: rgb(255, 0, 85);
+        font-size: 33px;
+        }
+        nav{
+            background-color: black;
+            font-size:18px;
+            text-align: center;
+        }
+        li{
+            display: inline;
+        }
+        a{
+            padding:20px;
+            color:aqua;
+        }
